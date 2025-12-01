@@ -1,0 +1,6 @@
+*.pdf
+*jpg
+/node_modules/
+/vendor/
+*.zip
+/public/
